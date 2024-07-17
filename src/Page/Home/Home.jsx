@@ -34,7 +34,7 @@ function Home() {
             </p>
 
           </div>
-          <div className="lg:text-5xl italic lg:mx-auto md:mx-auto mx-auto md:text-4xl text-2xl font-extrabold  relative lg:w-11/12 md:w-2/3 w-9/12 pb-6">
+          <div className="lg:text-5xl italic lg:mx-auto md:mx-auto mx-auto md:text-4xl text-2xl font-extrabold  relative lg:w-11/12 md:w-2/3 w-9/12 pb-4">
             <p id="text-slide" className="">MERN STACK DEVELOPER</p><p id="field" className="">MERN STACK DEVELOPER</p>
           </div>
           <div className="lg:w-[700px] text-center   text-white  lg:text-lg md:text-lg text-base mx-1 my-5">
