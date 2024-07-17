@@ -37,7 +37,7 @@ function About() {
                     data-aos-easing="ease-in-sine"
                     data-aos-delay="1000"
                     data-aos-duration="3000" className='lg:text-start  text-center py-2 text-white my-auto'>
-                    <h1 className='text-5xl italic text-center font-semibold'>Personal InFo</h1>
+                    <h1 className='md:text-5xl text-2xl italic text-center font-semibold'>Personal InFo</h1>
                     <hr className='w-3/4 mx-auto border-2 mt-1 rounded-xl' />
                     <div className='mt-5'>
                         <h1 className='lg:text-2xl text-xl mb-2'><span className='font-semibold'>Name: </span>Md Habibur Rahman</h1>
@@ -102,7 +102,7 @@ function About() {
 
             {/* // Experience & Education section*/}
             <div className='text-white'>
-                <h1 className='text-4xl text-center font-semibold my-5 text-white'>Experience & <span className='text-blue-800'>Education</span></h1>
+                <h1 className='md:text-4xl text-2xl text-center font-semibold my-5 text-white'>Experience & <span className='text-blue-800'>Education</span></h1>
                 <div className='flex flex-wrap py-5 justify-around'>
                     <div data-aos="fade-right"
                         // data-aos-offset="500"
