@@ -14,8 +14,8 @@ const Vanta = ({ children }) => {
             if (vantaEffect) vantaEffect.destroy()
         }
     }, [vantaEffect])
-    return <div className='fixed h-screen w-full' ref={myRef}>
-       {children}
+    return <div className='min-h-screen w-full' ref={myRef}>
+        {children}
     </div>
 }
 export default Vanta;

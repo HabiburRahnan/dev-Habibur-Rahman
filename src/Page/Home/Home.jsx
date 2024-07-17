@@ -12,7 +12,7 @@ function Home() {
   return (
     <div>
       <Title name={"Home"}></Title>
-      <div className="flex h-screen justify-around lg:gap-0 gap-2 flex-wrap overflow-hidden" >
+      <div className="flex h-full justify-around lg:gap-0 gap-2 flex-wrap overflow-hidden" >
         <div
           data-aos="fade-right"
           data-aos-easing="ease-in-sine"

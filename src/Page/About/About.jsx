@@ -13,14 +13,14 @@ function About() {
     useEffect(() => {
         AOS.init()
     }, [])
-    console.log(CV);
+    // console.log(CV);
     return (
 
         <section data-aos="fade-down"
             // data-aos-offset="500"
             // data-aos-easing="ease-out-cubic"
             data-aos-duration="2000"
-            className=" container mx-auto  h-full ">
+            className=" container mx-auto   ">
             <p className="lg:text-8xl text-5xl text-gray-800 opacity-60 absolute lg:left-1/3 left-1/4  mx-auto font-extrabold " > About Me</p>
             <h1 className='lg:text-6xl text-4xl text-white text-center lg:top-5 top-2 relative font-bold'>About Me</h1>
             <div className='flex justify-around gap-5 flex-wrap lg:my-12 my-5'>
