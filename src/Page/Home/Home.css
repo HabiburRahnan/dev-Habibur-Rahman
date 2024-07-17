@@ -53,7 +53,7 @@
 #text-slide {
   
     position: relative;
-    color: #03a9f4;
+    color: #010608;
     overflow: hidden;
     animation: textslide 5s infinite alternate steps(25);
     white-space: nowrap;
