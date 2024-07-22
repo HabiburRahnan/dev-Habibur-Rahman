@@ -58,9 +58,12 @@ width: auto;
 
 li{
     background-color: transparent;
+    
 }
 .lihover:hover{
     background-color: #03a9f4;
+    
+
     /* transition: all 1.5s; */
     
 }

@@ -1,0 +1,153 @@
+[
+    {
+        "projectNo": 1,
+        "name": "NovoNest Residence",
+        "image": "https://i.ibb.co/Ytf2wCd/Novo-Nest-Residences.png",
+        "image1": "https://i.ibb.co/PjtmG8k/novo-home.png",
+        "image2": "https://i.ibb.co/4d9fYZc/novo-apartments.png",
+        "image3": "https://i.ibb.co/YB5cnw0/novo-member.png",
+        "image4": "https://i.ibb.co/YTQxy7H/novo-admin.png",
+        "note": "This is an apartment owner website. Where he has flats for rent and maintain the apartment website. The people who rent those flats they can pay their monthly rent by this website",
+        "technologyUse": [
+            "https://i.ibb.co/N2Zm6pW/html.png",
+            "https://i.ibb.co/Zms2qJP/react-removebg-preview.png",
+            "https://i.ibb.co/XCgC3Qm/tailwind.png",
+            "https://i.ibb.co/x8Vcxsk/node.png",
+            "https://i.ibb.co/QHhSTQp/jwt-removebg-preview1.png",
+            "https://i.ibb.co/d2CgpsR/material-removebg-preview.png",
+            "https://i.ibb.co/zPc6Jdt/express.png",
+            "https://i.ibb.co/7v2WM2Y/mongodb.png"
+        ],
+        "live_link": "https://novonest-realty.web.app",
+        "client_github_link": "https://github.com/mahmudhasan07/NovoNest-Residences",
+        "sever_github_link": "https://github.com/mahmudhasan07/NovoNest-Residences-Server",
+        "date": "2023-10-28",
+        "features": [
+            "I use sort method in rent system so that any one can see which is lowest rent",
+            "I create 3 types of user in this website where a normal-user, member-user, admin-user",
+            "Member user can see their payment list with a search filter",
+            "I also create a announcement with a sort method",
+            "This i a website a payment method so member-user can pay their rent from home"
+        ]
+    },
+    {
+        "projectNo": 2,
+        "name": "Speed of Creativity",
+        "image": "https://i.ibb.co/bmhyhb8/Speed-Of-Creativity.png",
+        "image1": "https://i.ibb.co/kMtLtyP/speed-home.png",
+        "image2": "https://i.ibb.co/716LVcB/speed-assignments.png",
+        "image3": "https://i.ibb.co/j5F0xs0/speed-info.png",
+        "image4": "https://i.ibb.co/dkX9mpw/speed-submitted.png",
+        "note": "This is a educational website so i create to many tasks with assignment so that students can practice more and know more about programming",
+        "technologyUse": [
+            "https://i.ibb.co/N2Zm6pW/html.png",
+            "https://i.ibb.co/Zms2qJP/react-removebg-preview.png",
+            "https://i.ibb.co/XCgC3Qm/tailwind.png",
+            "https://i.ibb.co/x8Vcxsk/node.png",
+            "https://i.ibb.co/zPc6Jdt/express.png",
+            "https://i.ibb.co/7v2WM2Y/mongodb.png"
+        ],
+        "live_link": "https://speed-of-creativity.web.app",
+        "client_github_link": "https://github.com/mahmudhasan07/Speed-Of-Creativity",
+        "sever_github_link": "https://github.com/mahmudhasan07/Speed-Of-Creativity-Server",
+        "date": "2023-11-1",
+        "features": [
+            "This is a educational website so i create to many tasks with assignment so that students can practice more and know more about programming",
+            "I made a level sort method website so that you can decide which level you want to work.",
+            "I give a quite good animation for my website",
+            "I implement search section so that you can easily find which type of programming you want to practice.",
+            "I also create a comment section so that user can feedback us."
+        ]
+    },
+    {
+        "projectNo": 3,
+        "name": "PalnetEarth Yoga",
+        "image": "https://i.ibb.co/89dYLGN/Palnet-Earth-Yoga.png",
+        "image1": "https://i.ibb.co/Dp0XfJj/Screenshot-2024-01-04-132747.png",
+        "image2": "https://i.ibb.co/7VfWNPn/Screenshot-2024-01-04-132813.png",
+        "image3": "https://i.ibb.co/KzYWkb7/Screenshot-2024-01-04-132848.png",
+        "image4": "https://i.ibb.co/MVgyKTS/Screenshot-2024-01-04-133754.png",
+        "note": "This is basically a online education website. Where you can see all classes which is upload by admin of this website.",
+        "technologyUse": [
+            "https://i.ibb.co/N2Zm6pW/html.png",
+            "https://i.ibb.co/Zms2qJP/react-removebg-preview.png",
+            "https://i.ibb.co/XCgC3Qm/tailwind.png"
+        ],
+        "live_link": "https://speed-of-creativity.web.app",
+        "client_github_link": "https://github.com/mahmudhasan07/Speed-Of-Creativity",
+        "sever_github_link": "https://github.com/mahmudhasan07/Speed-Of-Creativity-Server",
+        "date": "2023-10-7",
+        "features": [
+            "This is basically a online education website. Where you can see all classes which is upload by admin of this website.",
+            "We have some packages for our customer to buy.",
+            "I give a quite good animation for my website",
+            "We have a feedback section where user can feedback us.",
+            "Also you can save videos as a bookmark."
+        ]
+    },
+    {
+        "projectNo": 4,
+        "name": "Coffee House",
+        "image": "https://i.ibb.co/j8w5DXz/Coffee-House.png",
+        "image1": "https://i.ibb.co/7rMFZgR/Screenshot-2024-02-20-195137.png",
+        "image2": "https://i.ibb.co/TPQWWbY/coffee-gif.gif",
+        "image3": "https://i.ibb.co/9wX0pvj/Screenshot-2024-02-20-200154.png",
+        "image4": "https://i.ibb.co/3mpHh9b/Screenshot-2024-02-20-200219.png",
+        "note": "This is my first Vue.js project with the MySql database. After reading some docs i make a basic website using this.",
+        "technologyUse": [
+            "https://i.ibb.co/fFSNnK1/png-transparent-vuejs-original-wordmark-logo-icon-thumbnail-removebg-preview.png",
+            "https://i.ibb.co/rtt9hss/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png",
+            "https://i.ibb.co/x8Vcxsk/node.png",
+            "https://i.ibb.co/N2Zm6pW/html.png",
+            "https://i.ibb.co/zPc6Jdt/express.png",
+            "https://i.ibb.co/XCgC3Qm/tailwind.png"
+        ],
+        "live_link": "https://coffee-house-dbcb4.web.app",
+        "client_github_link": "https://github.com/mahmudhasan07/Coffee-House",
+        "sever_github_link": "https://github.com/mahmudhasan07/Coffee_house_server",
+        "date": "2024-02-18",
+        "features": [
+            "An owner can easily add their coffee and snacks with proper input.",
+            "There are also update and delete sections for the owner so that he can easily modify it.",
+            "Try some style in the NavBar and Cards section.",
+            "The whole data is control from backend with node and express"
+        ]
+    },
+    {
+        "projectNo": 5,
+        "name": "ZingZest World",
+        "image": "https://i.ibb.co/ct2t6yC/Zing-Zest-World.png",
+        "image1": "https://i.ibb.co/g3vdwbf/Screenshot-2024-02-09-145509.png",
+        "image2": "https://i.ibb.co/4KTysxL/Screenshot-2024-02-09-145607.png",
+        "image3": "https://i.ibb.co/s6ps31x/Screenshot-2024-02-09-145709.png",
+        "image4": "https://i.ibb.co/Zg4CGvC/Screenshot-2024-02-09-145539.png",
+        "image5": "https://i.ibb.co/3mpHh9b/Screenshot-2024-02-20-200219.png",
+        "image6": "https://i.ibb.co/pdqHWQm/Screenshot-2024-02-09-145848.png",
+        "image7": "https://i.ibb.co/xm0S3Ct/Screenshot-2024-02-09-145906.png",
+        "image8": "https://i.ibb.co/BPhfxbf/Screenshot-2024-02-09-145805.png",
+        "note": "This is an E-commerce website.Where the user can browse through various category products from this website.Those products come from a website ZingZest Seller.If you want be come a seller can go to the seller website from our website.",
+        "technologyUse": [
+            "https://i.ibb.co/Zms2qJP/react-removebg-preview.png",
+            "https://i.ibb.co/x8Vcxsk/node.png",
+            "https://i.ibb.co/zPc6Jdt/express.png",
+            "https://i.ibb.co/7v2WM2Y/mongodb.png",
+            "https://i.ibb.co/QHhSTQp/jwt-removebg-preview1.png",
+            "https://i.ibb.co/d2CgpsR/material-removebg-preview.png",
+            "https://i.ibb.co/N2Zm6pW/html.png",
+            "https://i.ibb.co/XCgC3Qm/tailwind.png"
+        ],
+        "live_link": "https://client-zingzest.web.app",
+        "client_github_link": "https://github.com/mahmudhasan07/ZingZest-World-Client",
+        "sever_github_link": "https://github.com/mahmudhasan07/ZingZest-World-Server",
+        "date": "2024-01-30",
+        "features": [
+            "User can search any kind of products in out search section.",
+            "The product details page will show all information of each product.",
+            "There are a filter options where you can filter product by their name, type etc..",
+            "It has JWT authorization system so that if someone get your backed link, they can't access your account and can't see your items",
+            "Users can add their favorite items is cart section",
+            "It has sort options for users so they can easily find out the prices of products",
+            "I set dynamically review section where a products get reviews when users give that product review"
+        ]
+    }
+]

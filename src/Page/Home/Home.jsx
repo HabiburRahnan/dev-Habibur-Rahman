@@ -1,4 +1,4 @@
-import { useEffect } from "react"
+import { useEffect,  } from "react"
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 import Title from "../../Components/Title"
@@ -6,12 +6,15 @@ import myimage from "/my-image.jpg"
 import "./Home.css"
 
 function Home() {
+  
   useEffect(() => {
     AOS.init()
   }, [])
+  
   return (
-    <div>
+    <div className="pt-6">
       <Title name={"Home"}></Title>
+     
       <div className="flex h-full justify-around lg:gap-0 gap-2 flex-wrap overflow-hidden" >
         <div
           data-aos="fade-right"
