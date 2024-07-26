@@ -1,153 +1,142 @@
 [
-    {
-        "projectNo": 1,
-        "name": "NovoNest Residence",
-        "image": "https://i.ibb.co/Ssvb8xM/screencapture-meal-management-system-93e18-web-app-2024-07-18-00-32-02.png",
-        "image1": "https://i.ibb.co/PjtmG8k/novo-home.png",
-        "image2": "https://i.ibb.co/4d9fYZc/novo-apartments.png",
-        "image3": "https://i.ibb.co/YB5cnw0/novo-member.png",
-        "image4": "https://i.ibb.co/YTQxy7H/novo-admin.png",
-        "note": "This is an apartment owner website. Where he has flats for rent and maintain the apartment website. The people who rent those flats they can pay their monthly rent by this website",
-        "technologyUse": [
-            "https://i.ibb.co/N2Zm6pW/html.png",
-            "https://i.ibb.co/Zms2qJP/react-removebg-preview.png",
-            "https://i.ibb.co/XCgC3Qm/tailwind.png",
-            "https://i.ibb.co/x8Vcxsk/node.png",
-            "https://i.ibb.co/QHhSTQp/jwt-removebg-preview1.png",
-            "https://i.ibb.co/d2CgpsR/material-removebg-preview.png",
-            "https://i.ibb.co/zPc6Jdt/express.png",
-            "https://i.ibb.co/7v2WM2Y/mongodb.png"
-        ],
-        "live_link": "https://novonest-realty.web.app",
-        "client_github_link": "https://github.com/mahmudhasan07/NovoNest-Residences",
-        "sever_github_link": "https://github.com/mahmudhasan07/NovoNest-Residences-Server",
-        "date": "2023-10-28",
-        "features": [
-            "I use sort method in rent system so that any one can see which is lowest rent",
-            "I create 3 types of user in this website where a normal-user, member-user, admin-user",
-            "Member user can see their payment list with a search filter",
-            "I also create a announcement with a sort method",
-            "This i a website a payment method so member-user can pay their rent from home"
-        ]
-    },
-    {
-        "projectNo": 2,
-        "name": "Speed of Creativity",
-        "image": "https://i.ibb.co/bmhyhb8/Speed-Of-Creativity.png",
-        "image1": "https://i.ibb.co/kMtLtyP/speed-home.png",
-        "image2": "https://i.ibb.co/716LVcB/speed-assignments.png",
-        "image3": "https://i.ibb.co/j5F0xs0/speed-info.png",
-        "image4": "https://i.ibb.co/dkX9mpw/speed-submitted.png",
-        "note": "This is a educational website so i create to many tasks with assignment so that students can practice more and know more about programming",
-        "technologyUse": [
-            "https://i.ibb.co/N2Zm6pW/html.png",
-            "https://i.ibb.co/Zms2qJP/react-removebg-preview.png",
-            "https://i.ibb.co/XCgC3Qm/tailwind.png",
-            "https://i.ibb.co/x8Vcxsk/node.png",
-            "https://i.ibb.co/zPc6Jdt/express.png",
-            "https://i.ibb.co/7v2WM2Y/mongodb.png"
-        ],
-        "live_link": "https://speed-of-creativity.web.app",
-        "client_github_link": "https://github.com/mahmudhasan07/Speed-Of-Creativity",
-        "sever_github_link": "https://github.com/mahmudhasan07/Speed-Of-Creativity-Server",
-        "date": "2023-11-1",
-        "features": [
-            "This is a educational website so i create to many tasks with assignment so that students can practice more and know more about programming",
-            "I made a level sort method website so that you can decide which level you want to work.",
-            "I give a quite good animation for my website",
-            "I implement search section so that you can easily find which type of programming you want to practice.",
-            "I also create a comment section so that user can feedback us."
-        ]
-    },
-    {
-        "projectNo": 3,
-        "name": "PalnetEarth Yoga",
-        "image": "https://i.ibb.co/89dYLGN/Palnet-Earth-Yoga.png",
-        "image1": "https://i.ibb.co/Dp0XfJj/Screenshot-2024-01-04-132747.png",
-        "image2": "https://i.ibb.co/7VfWNPn/Screenshot-2024-01-04-132813.png",
-        "image3": "https://i.ibb.co/KzYWkb7/Screenshot-2024-01-04-132848.png",
-        "image4": "https://i.ibb.co/MVgyKTS/Screenshot-2024-01-04-133754.png",
-        "note": "This is basically a online education website. Where you can see all classes which is upload by admin of this website.",
-        "technologyUse": [
-            "https://i.ibb.co/N2Zm6pW/html.png",
-            "https://i.ibb.co/Zms2qJP/react-removebg-preview.png",
-            "https://i.ibb.co/XCgC3Qm/tailwind.png"
-        ],
-        "live_link": "https://speed-of-creativity.web.app",
-        "client_github_link": "https://github.com/mahmudhasan07/Speed-Of-Creativity",
-        "sever_github_link": "https://github.com/mahmudhasan07/Speed-Of-Creativity-Server",
-        "date": "2023-10-7",
-        "features": [
-            "This is basically a online education website. Where you can see all classes which is upload by admin of this website.",
-            "We have some packages for our customer to buy.",
-            "I give a quite good animation for my website",
-            "We have a feedback section where user can feedback us.",
-            "Also you can save videos as a bookmark."
-        ]
-    },
-    {
-        "projectNo": 4,
-        "name": "Coffee House",
-        "image": "https://i.ibb.co/j8w5DXz/Coffee-House.png",
-        "image1": "https://i.ibb.co/7rMFZgR/Screenshot-2024-02-20-195137.png",
-        "image2": "https://i.ibb.co/TPQWWbY/coffee-gif.gif",
-        "image3": "https://i.ibb.co/9wX0pvj/Screenshot-2024-02-20-200154.png",
-        "image4": "https://i.ibb.co/3mpHh9b/Screenshot-2024-02-20-200219.png",
-        "note": "This is my first Vue.js project with the MySql database. After reading some docs i make a basic website using this.",
-        "technologyUse": [
-            "https://i.ibb.co/fFSNnK1/png-transparent-vuejs-original-wordmark-logo-icon-thumbnail-removebg-preview.png",
-            "https://i.ibb.co/rtt9hss/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png",
-            "https://i.ibb.co/x8Vcxsk/node.png",
-            "https://i.ibb.co/N2Zm6pW/html.png",
-            "https://i.ibb.co/zPc6Jdt/express.png",
-            "https://i.ibb.co/XCgC3Qm/tailwind.png"
-        ],
-        "live_link": "https://coffee-house-dbcb4.web.app",
-        "client_github_link": "https://github.com/mahmudhasan07/Coffee-House",
-        "sever_github_link": "https://github.com/mahmudhasan07/Coffee_house_server",
-        "date": "2024-02-18",
-        "features": [
-            "An owner can easily add their coffee and snacks with proper input.",
-            "There are also update and delete sections for the owner so that he can easily modify it.",
-            "Try some style in the NavBar and Cards section.",
-            "The whole data is control from backend with node and express"
-        ]
-    },
-    {
-        "projectNo": 5,
-        "name": "ZingZest World",
-        "image": "https://i.ibb.co/ct2t6yC/Zing-Zest-World.png",
-        "image1": "https://i.ibb.co/g3vdwbf/Screenshot-2024-02-09-145509.png",
-        "image2": "https://i.ibb.co/4KTysxL/Screenshot-2024-02-09-145607.png",
-        "image3": "https://i.ibb.co/s6ps31x/Screenshot-2024-02-09-145709.png",
-        "image4": "https://i.ibb.co/Zg4CGvC/Screenshot-2024-02-09-145539.png",
-        "image5": "https://i.ibb.co/3mpHh9b/Screenshot-2024-02-20-200219.png",
-        "image6": "https://i.ibb.co/pdqHWQm/Screenshot-2024-02-09-145848.png",
-        "image7": "https://i.ibb.co/xm0S3Ct/Screenshot-2024-02-09-145906.png",
-        "image8": "https://i.ibb.co/BPhfxbf/Screenshot-2024-02-09-145805.png",
-        "note": "This is an E-commerce website.Where the user can browse through various category products from this website.Those products come from a website ZingZest Seller.If you want be come a seller can go to the seller website from our website.",
-        "technologyUse": [
-            "https://i.ibb.co/Zms2qJP/react-removebg-preview.png",
-            "https://i.ibb.co/x8Vcxsk/node.png",
-            "https://i.ibb.co/zPc6Jdt/express.png",
-            "https://i.ibb.co/7v2WM2Y/mongodb.png",
-            "https://i.ibb.co/QHhSTQp/jwt-removebg-preview1.png",
-            "https://i.ibb.co/d2CgpsR/material-removebg-preview.png",
-            "https://i.ibb.co/N2Zm6pW/html.png",
-            "https://i.ibb.co/XCgC3Qm/tailwind.png"
-        ],
-        "live_link": "https://client-zingzest.web.app",
-        "client_github_link": "https://github.com/mahmudhasan07/ZingZest-World-Client",
-        "sever_github_link": "https://github.com/mahmudhasan07/ZingZest-World-Server",
-        "date": "2024-01-30",
-        "features": [
-            "User can search any kind of products in out search section.",
-            "The product details page will show all information of each product.",
-            "There are a filter options where you can filter product by their name, type etc..",
-            "It has JWT authorization system so that if someone get your backed link, they can't access your account and can't see your items",
-            "Users can add their favorite items is cart section",
-            "It has sort options for users so they can easily find out the prices of products",
-            "I set dynamically review section where a products get reviews when users give that product review"
-        ]
-    }
+  {
+    "projectNo": 1,
+    "name": "Virtual Doc (Your Personal Health Center)",
+    "image": "https://i.ibb.co/RQGqgx0/screencapture-virtual-doc-site-web-app-2024-07-27-01-02-52.png",
+    "image1": "https://i.ibb.co/PGgZ0c1/screencapture-virtual-doc-site-web-app-appointment-2024-07-27-01-04-39.png",
+    "image2": "https://i.ibb.co/28kcvSF/screencapture-virtual-doc-site-web-app-services-2024-07-27-01-07-05.png",
+    "image3": "https://i.ibb.co/znBXNGc/screencapture-virtual-doc-site-web-app-tips-2024-07-27-01-08-25.png",
+    "image4": "https://i.ibb.co/dGD0yKv/screencapture-virtual-doc-site-web-app-dashboard-user-2024-07-27-01-05-50.png",
+    "note": "The ultimate platform where doctors and patients meet virtually. The user can find a specific doctor among all the doctors on the platform according to their problems",
+    "technologyUse": [
+      "https://i.ibb.co/N2Zm6pW/html.png",
+      "https://i.ibb.co/Zms2qJP/react-removebg-preview.png",
+      "https://i.ibb.co/XCgC3Qm/tailwind.png",
+      "https://i.ibb.co/x8Vcxsk/node.png",
+      "https://i.ibb.co/zPc6Jdt/express.png",
+      "https://i.ibb.co/7v2WM2Y/mongodb.png"
+    ],
+    "live_link": "https://virtual-doc-site.web.app",
+    "client_github_link": "https://github.com/TeamTechTitans/VirtualDoc",
+    "sever_github_link": "https://github.com/TeamTechTitans/VirtualDoc-Backend",
+    "date": "8-04-2024",
+    "features": [
+      "In order for the user to be able to make an appointment with the doctor, he must first fix the problem.",
+      "Then the doctor will fix it and pay and then the the doctor will give a video call and link.",
+      "Users can make an appointment with the doctor and go live with the doctor to know about their problem.",
+      "Then the doctor will see his problem and give medicine.",
+      "You can download and paint the prescription given by the doctor. And you can see how much money you are using by going to your profile."
+    ]
+  },
+  {
+    "projectNo": 2,
+    "name": "Meal Management System",
+    "image": "https://i.ibb.co/Ssvb8xM/screencapture-meal-management-system-93e18-web-app-2024-07-18-00-32-02.png",
+    "image1": "https://i.ibb.co/0YKsz6B/screencapture-meal-management-system-93e18-web-app-meals-2024-07-27-00-26-39.png",
+    "image2": "https://i.ibb.co/QrLX1Fv/screencapture-meal-management-system-93e18-web-app-dashboard-all-Meal-2024-07-27-00-07-28.png",
+    "image3": "https://i.ibb.co/1KP95XL/screencapture-meal-management-system-93e18-web-app-dashboard-all-Meal-2024-07-27-00-45-53.png",
+    "image4": "https://i.ibb.co/L8cQg6v/screencapture-meal-management-system-93e18-web-app-dashboard-serve-Meals-2024-07-27-00-46-39.png",
+    "note": "This is a e-commers website. Here user can see login registration and food items. And can order it by logging in. The admin panel will be able to administer their receive surve and users",
+    "technologyUse": [
+      "https://i.ibb.co/N2Zm6pW/html.png",
+      "https://i.ibb.co/Zms2qJP/react-removebg-preview.png",
+      "https://i.ibb.co/XCgC3Qm/tailwind.png",
+      "https://i.ibb.co/x8Vcxsk/node.png",
+      "https://i.ibb.co/zPc6Jdt/express.png",
+      "https://i.ibb.co/7v2WM2Y/mongodb.png"
+    ],
+    "live_link": "https://novonest-realty.web.app",
+    "client_github_link": "https://github.com/mahmudhasan07/NovoNest-Residences",
+    "sever_github_link": "https://github.com/mahmudhasan07/NovoNest-Residences-Server",
+    "date": "12-16-2023",
+    "features": [
+      "Admin root and user root come separately. Now customers can pay through card.",
+      "Meals Add Update Delete and Meals Request can be given here.",
+      "Member user can see their payment list with a search filter",
+      "Users can purchase memberships. You can give reviews and watch.",
+      "This i a website a payment method so member-user can pay their rent from home"
+    ]
+  },
+
+  {
+    "projectNo": 3,
+    "name": "Job Search",
+    "image": "https://i.ibb.co/LQ0wJg8/screencapture-job-search-3936b-web-app-2024-07-27-01-16-14.png",
+    "image1": "https://i.ibb.co/YkZ3PfY/screencapture-job-search-3936b-web-app-profile-2024-07-27-01-19-55.png",
+    "image2": "https://i.ibb.co/nn5HSs3/screencapture-job-search-3936b-web-app-add-Job-2024-07-27-01-17-35.png",
+    "image3": "https://i.ibb.co/x2cDdP8/screencapture-job-search-3936b-web-app-blog-2024-07-27-01-18-14.png",
+    "image4": "https://i.ibb.co/R7sXhYh/screencapture-job-search-3936b-web-app-career-2024-07-27-01-18-48.png",
+    "note": "After login, the user can apply for the job, if the date is over, he will not be able to apply. Users can see examples in their resumes.",
+    "technologyUse": [
+      "https://i.ibb.co/N2Zm6pW/html.png",
+      "https://i.ibb.co/Zms2qJP/react-removebg-preview.png",
+      "https://i.ibb.co/XCgC3Qm/tailwind.png"
+    ],
+    "live_link": "https://job-search-3936b.web.app",
+    "client_github_link": "https://github.com/HabiburRahnan/job-search-client",
+    "sever_github_link": "https://github.com/HabiburRahnan/job-search-server",
+    "date": "2023-10-7",
+    "features": [
+      "If you want to know the details of the job here and if you want to apply, you have to login or register here. Without login or registration you cannot apply any job or view details here.",
+      "Here you can see your applied jobs in Applied Jobs. And if you want to post any job then you can go to add job and post the job. And within My Jobs, who can update and delete and view jobs from there.",
+      "We have many types of jobs here like remote jobs, part time jobs and full time jobs. If you want to see remote then you can see remote by clicking on remote, if you click on part time you can see part time and if you click on full time you can see full time job.",
+      "If you go to All Jobs route, you can see all the detailed jobs there. There are part time full time and remote jobs. And if you block, you can know details about our project.",
+      "This is my job search project. Various types of jobs can be posted and applied from here. If you apply for a job here, a PDF file will be saved on your computer."
+    ]
+  },
+  {
+    "projectNo": 4,
+    "name": "Music Art",
+    "image": "https://i.ibb.co/4mjxjjf/screencapture-music-artcom-habib1-vercel-app-2024-07-27-01-26-01.png",
+    "image1": "https://i.ibb.co/1Mvf1Sh/screencapture-music-artcom-habib1-vercel-app-courses-2024-07-27-01-27-16.png",
+    "image2": "https://i.ibb.co/Bz5SrmW/screencapture-music-artcom-habib1-vercel-app-contact-2024-07-27-01-28-09.png",
+    "note": "This is my first Next.js project with the Aceternity UI. After reading some docs i make a basic website using this.",
+    "technologyUse": [
+      "https://i.ibb.co/5hK4d9P/download-15.png",
+      "https://i.ibb.co/R9KXqnd/logo.webp",
+      "https://i.ibb.co/x8Vcxsk/node.png",
+      "https://i.ibb.co/N2Zm6pW/html.png",
+      "https://i.ibb.co/zPc6Jdt/express.png",
+      "https://i.ibb.co/XCgC3Qm/tailwind.png"
+    ],
+    "live_link": "https://music-artcom-habib1.vercel.app",
+    "client_github_link": "https://github.com/HabiburRahnan/music-art",
+    "date": "15-06-2024",
+    "features": [
+      "You can know about our music courses through this website.",
+      "You can see our courses and details.",
+      "You can contact us on the contact page."
+    ]
+  },
+  {
+    "projectNo": 5,
+    "name": "Technology Electronices",
+    "image": "https://i.ibb.co/wdsdY0z/screencapture-technology-electronices-web-app-2024-07-27-02-09-46.png",
+    "image1": "https://i.ibb.co/N9sHtVq/screencapture-technology-electronices-web-app-add-Product-2024-07-27-02-12-59.png",
+    "image2": "https://i.ibb.co/zscLw9b/screencapture-technology-electronices-web-app-my-Cart-2024-07-27-02-15-04.png",
+    "image3": "https://i.ibb.co/wsPsLsN/screencapture-technology-electronices-web-app-about-2024-07-27-02-14-03.png",
+    "image4": "https://i.ibb.co/2WdrjSy/screencapture-technology-electronices-web-app-contact-2024-07-27-02-13-23.png",
+
+    "note": "My project is technology and now I have a mobile laptop watch. If I want to take this service, I have to register/login, otherwise I will not be able to take full service.",
+    "technologyUse": [
+      "https://i.ibb.co/Zms2qJP/react-removebg-preview.png",
+      "https://i.ibb.co/x8Vcxsk/node.png",
+      "https://i.ibb.co/zPc6Jdt/express.png",
+      "https://i.ibb.co/7v2WM2Y/mongodb.png",
+      "https://i.ibb.co/QHhSTQp/jwt-removebg-preview1.png",
+      "https://i.ibb.co/d2CgpsR/material-removebg-preview.png",
+      "https://i.ibb.co/N2Zm6pW/html.png",
+      "https://i.ibb.co/XCgC3Qm/tailwind.png"
+    ],
+    "live_link": "https://technology-electronices.web.app",
+    "client_github_link": "https://github.com/HabiburRahnan/technology-electronics-client",
+    "sever_github_link": "https://github.com/HabiburRahnan/technology-electronics-server",
+    "date": "06-12-2023",
+    "features": [
+      "You can add products to my project and view the products. And you can see that product UI. There you can see Delete Edit and View Details.",
+      "If you want to see our services at technology and electronics then you have to register now. Otherwise you will not be able to see our services.",
+      "If you register us here, you can see your email and photo on Navbar. You can see all our projects if you register.",
+      "If you get our 24/7 service. And you can contact us and you will get all our contact numbers, email, Facebook pages and YouTube links. We provide our customers with respect and service."
+    ]
+  }
 ]

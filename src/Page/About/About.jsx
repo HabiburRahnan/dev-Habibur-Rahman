@@ -130,7 +130,7 @@ function About() {
                             <FaBusinessTime className='text-3xl z-40 bg-blue-800 text-white p-1 rounded-full'></FaBusinessTime>
                             <hr className='border opacity-15 h-20 -ml-14' />
                             <div className='text-lg'>
-                                <h1>MERN Stack Developer<span>Programming Hero</span></h1>
+                                <h1>MERN Stack Developer <span>Programming Hero</span></h1>
                                 <span>Year: 2023</span>
                             </div>
                         </div>
@@ -138,7 +138,7 @@ function About() {
                             <FaBusinessTime className='text-3xl z-40 bg-blue-800 text-white p-1 rounded-full'></FaBusinessTime>
                             <hr className='border opacity-15 h-20 -ml-14' />
                             <div className='text-lg'>
-                                <h1>Web Design<span>Bd Calling Ltd.</span></h1>
+                                <h1>Web Design <span>Bd Calling Ltd.</span></h1>
                                 <p>Year: 2023</p>
 
                             </div>
