@@ -1,16 +1,13 @@
 #home{
     width: fit-content;
     margin-left: auto;
-    /* align-items: end; */
 }
 #home:hover:before{
 content: "Home" ;
-/* width: auto; */
 transition: all 40ms ease-out;
 
 }
 #about{
-    /* transition: .5s; */
     width: fit-content;
     margin-left: auto;
 }
@@ -64,6 +61,5 @@ li{
     background-color: #03a9f4;
     
 
-    /* transition: all 1.5s; */
     
 }

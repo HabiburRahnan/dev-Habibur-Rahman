@@ -27,11 +27,10 @@ function Main() {
             <Vanta>
 
                 <Navbar></Navbar>
-                <div style={{ left: `${position.x}px`, top: `${position.y}px` }} className="custom-cursor">
-
+                <div className="container max-auto">
+                    <Outlet></Outlet>
 
                 </div>
-                <Outlet></Outlet>
             </Vanta>
 
 
