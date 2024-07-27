@@ -44,7 +44,7 @@ function About() {
 
                         <h1 className='lg:text-2xl text-xl mb-2'><span className='font-semibold'>Nationality: </span>Bangladeshi</h1>
                         <h1 className='lg:text-2xl text-xl mb-2'><span className='font-semibold'>Language: </span>Bangla, English, Hindi</h1>
-                        <div className='flex justify-around items-center gap-5'>
+                        <div className='md:flex justify-around items-center gap-5'>
                             <div>
                                 <div className='lg:w-full  w-fit mx-auto  '>
                                     <a href={Resume} download={`MD-Habibur-Rahman-Resume`} rel="MD-Habibur-Rahman-Resume">
