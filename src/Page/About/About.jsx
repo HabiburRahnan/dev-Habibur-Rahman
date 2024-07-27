@@ -15,7 +15,6 @@ function About() {
     useEffect(() => {
         AOS.init()
     }, [])
-    // console.log(CV);
     return (
 
         <section data-aos="fade-down"

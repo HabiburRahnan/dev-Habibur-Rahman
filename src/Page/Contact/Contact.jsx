@@ -52,7 +52,7 @@ const Contact = () => {
                     </div>
                 </div>
                 <div className=' lg:my-16 my-7 p-1 lg:w-2/5'>
-                    <form >
+                    <form>
 
                         <div className='flex flex-wrap lg:gap-0 gap-5 justify-between p-1'>
                             <input className=' lg:w-64 p-2 my-5 w-full rounded-3xl' placeholder='Your Name' type="text" name="user_name" />
@@ -62,7 +62,7 @@ const Contact = () => {
                         <br />
                         <textarea className=' w-full  h-36 p-2 rounded-3xl' placeholder='Your Message' name="message" />
                         <div>
-                            <button type='submit' className='button z-40 flex gap-1 mt-5 border'>
+                            <button  className='button z-40 flex gap-1 mt-5 border'>
                                 <span className="button-content text-lg  my-auto">Send</span>
 
                             </button>
