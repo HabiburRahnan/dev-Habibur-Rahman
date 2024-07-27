@@ -21,16 +21,15 @@ function Main() {
     return (
 
         <div
-            className="container max-auto">
-
-
+        >
             <Vanta>
 
                 <Navbar></Navbar>
-                <div className="container max-auto">
-                    <Outlet></Outlet>
 
-                </div>
+                <Outlet></Outlet>
+
+
+
             </Vanta>
 
 

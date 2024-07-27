@@ -17,7 +17,7 @@ const Project = () => {
     return (
         <section data-aos="fade-down"
             data-aos-duration="2000"
-            className="h-full">
+            className="h-full pt-2 container mx-auto" >
 
             <div>
                <Title name={"Projects"}></Title>

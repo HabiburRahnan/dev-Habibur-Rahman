@@ -18,7 +18,7 @@ const ProjectInfo = () => {
         <section
             data-aos="fade-down"
             data-aos-duration="2000"
-            className=" text-white">
+            className=" text-white pt-2 container mx-auto">
             <div>
                 <Title name={"ProjectDetails"}></Title>
             </div>

@@ -21,6 +21,7 @@ const Contact = () => {
         <section
             data-aos="fade-down"
             data-aos-duration="2000"
+            className="pt-2 container mx-auto"
         >
             <Title name={"ContactMe"}></Title>
             <div className='flex flex-wrap justify-around'>
